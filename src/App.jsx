@@ -16,6 +16,7 @@ import AntigravityAIModal from './components/AntigravityAIModal';
 import ThemeCustomizerModal from './components/ThemeCustomizerModal';
 import ErrorBoundary from './components/ErrorBoundary';
 import { Sparkles, ShieldCheck, Calendar, Waves, MessageSquare, Award, Palette, Bot } from 'lucide-react';
+import './index.css' 
 
 function MainAppContent() {
   const { 
